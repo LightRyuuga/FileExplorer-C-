@@ -1,0 +1,9 @@
+E:\OOP\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe.config
+E:\OOP\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe
+E:\OOP\FileBrowser\FileBrowser\bin\Debug\FileBrowser.pdb
+E:\OOP\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
+E:\OOP\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Form1.resources
+E:\OOP\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+E:\OOP\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
+E:\OOP\FileBrowser\FileBrowser\obj\Debug\FileBrowser.exe
+E:\OOP\FileBrowser\FileBrowser\obj\Debug\FileBrowser.pdb
